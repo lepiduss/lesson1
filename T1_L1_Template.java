@@ -8,7 +8,7 @@ import static java.lang.System.*;
 
 import java.util.Scanner;
 
-class t01_lesson1_template{
+class Main{
 
 
      public static void main (String str[]) throws IOException {
